@@ -5,7 +5,7 @@ This is a repository for my LeetCode solutions
 | # | Title | Solution | Difficulty |
 | :---: | ------------- | ------------- | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Java/TwoSum.java) | Easy |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Java](./Java/RemoveDuplicatesFromSortedArray.java)  | Easy |
 
 
 
